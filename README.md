@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm Arvind Kumar Anand </h1>
+<h1>👋 Hi there, I'm Arvind Kumar Anand </h1>
 
 - 👨‍💻 Undergraduate at Netaji Subhas University of Technology
 - 💡 Aspiring Software Developer
