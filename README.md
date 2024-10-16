@@ -1,21 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arvind Kumar Anand</h1>
 <h3 align="center">👨‍💻 Undergraduate at Netaji Subhas University of Technology | Aspiring Software Developer 💡 Passionate about Coding & Problem-Solving. 💼 Preparing for a Future in Software Development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arvind-kumar-anand&label=Profile%20views&color=0e75b6&style=flat" alt="arvind-kumar-anand" /> </p>
-
-<!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arvind-kumar-anand" alt="arvind-kumar-anand" /></a> </p>
--->
-
-<!--
-<p align="left"> <a href="https://twitter.com/arvind_kr_anand" target="blank"><img src="https://img.shields.io/twitter/follow/arvind_kr_anand?logo=twitter&style=for-the-badge" alt="arvind_kr_anand" /></a> </p>
--->
-
 - 💬 Ask me about **HTML, CSS, React.js, Node.js, Express, SQL, MongoDB, VS Code, Excel, Power BI, Git, GitHub**
 
 - 📫 How to reach me **arvindanand.0015@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
