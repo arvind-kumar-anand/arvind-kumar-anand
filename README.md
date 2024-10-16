@@ -8,7 +8,7 @@
 
 <h3 align="left">📲 Connect with me:</h3>
 <div align="left">
- <a href="mailto:jigarsable21@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ <a href="mailto:arvindanand.0015@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
  <a href="https://www.facebook.com/kumar.arvind.anand"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
  <a href="https://github.com/arvind-kumar-anand"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
  <a href="https://www.instagram.com/arvind.kumar.anand/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -70,6 +70,3 @@
     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arvind-kumar-anand&" alt="arvind-kumar-anand" /></td>
   </tr>
 </table>
-
-![Profile Views](https://komarev.com/ghpvc/?username=arvind-kumar-anand&label=Profile%20views&color=0e75b6&style=flat)
-![snake gif](https://github.com/arvind-kumar-anand/arvind-kumar-anand/blob/output/github-contribution-grid-snake.gif)
