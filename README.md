@@ -21,7 +21,6 @@
  <a href=""><img alt="" src="" /></a>
  <a href=""><img alt="" src="" /></a>
  <a href=""><img alt="" src="" /></a>
-
 </div>
 
 <h3 align="left">👨🏻‍💻 Tech Stack and Tools:</h3>
@@ -59,16 +58,18 @@
 </div>
 
 <h3 align="left">📊 GitHub Activity:</h3>
-
 <table>
   <tr>
      <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arvind-kumar-anand&show_icons=true&locale=en&layout=compact" alt="arvind-kumar-anand" /></td>
      <td>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arvind-kumar-anand&show_icons=true&locale=en" alt="arvind-kumar-anand" /></td>
   </tr>
 </table>
-
 <table align="center">
   <tr>
     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arvind-kumar-anand&" alt="arvind-kumar-anand" /></td>
   </tr>
 </table>
+
+### 🌟 Featured Projects:
+- **[WeatherWise](https://github.com/arvind-kumar-anand/WeatherWise)**: A weather app built with React.js showing live data.
+- **[TuneStream](https://github.com/arvind-kumar-anand/TuneStream)**: A simple, sleek music player app.
