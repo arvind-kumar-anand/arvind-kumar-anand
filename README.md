@@ -16,10 +16,10 @@
 </p>
 
 <h2 align="left">🚀 Tech Stack and Tools:</h2>
-id="Streak Stats"
+
 <h2 align="left">📊 GitHub Activity:</h2>
 <p id="Most Used Language"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arvind-kumar-anand&show_icons=true&locale=en&layout=compact" alt="arvind-kumar-anand" /></p>
 
 <p id="GitHub Stats">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arvind-kumar-anand&show_icons=true&locale=en" alt="arvind-kumar-anand" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arvind-kumar-anand&" alt="arvind-kumar-anand" /></p>
+<p id="Streak Stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arvind-kumar-anand&" alt="arvind-kumar-anand" /></p>
