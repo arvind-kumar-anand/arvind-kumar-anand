@@ -7,12 +7,21 @@
 
 <h3 align="left">📲 Connect with me:</h3>
 <div align="left">
- <a href="https://www.facebook.com/kumar.arvind.anand" target="_blank"><img alt="" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
- <a href=""><img alt="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+ <a href="https://www.facebook.com/kumar.arvind.anand"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+ <a href="https://github.com/arvind-kumar-anand"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+ <a href="https://www.instagram.com/arvind.kumar.anand/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/arvind-kumar-anand/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="https://linktr.ee/arvind.kumar.anand"><img alt="PortFolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+ <a href="https://www.quora.com/profile/Arvind-Kumar-Anand-4"><img alt="Quora" src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" /></a>
  <a href=""><img alt="" src="" /></a>
  <a href=""><img alt="" src="" /></a>
  <a href=""><img alt="" src="" /></a>
  <a href=""><img alt="" src="" /></a>
+ <a href=""><img alt="" src="" /></a>
+ <a href=""><img alt="" src="" /></a>
+ <a href=""><img alt="" src="" /></a>
+ <a href=""><img alt="" src="" /></a>
+ 
 </div>
 
 <h3 align="left">🚀 Tech Stack and Tools:</h3>
