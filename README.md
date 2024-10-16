@@ -1,4 +1,5 @@
-<h1>👋 Hi there, I'm Arvind Kumar Anand </h1>
+<h1>👋 I’m a tech enthusiast passionate about web development, data analysis, and problem-solving. Constantly honing my skills and looking for innovative ways to bring ideas to life!
+ </h1>
 
 - 👨‍💻 Undergraduate at Netaji Subhas University of Technology
 - 💡 Aspiring Software Developer
