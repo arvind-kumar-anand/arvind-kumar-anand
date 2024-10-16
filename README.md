@@ -68,10 +68,10 @@
   </tr>
 </table>
 
-<div align="center">
-<table>
+
+<table align="center">
   <tr>
     <p> <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arvind-kumar-anand&" alt="arvind-kumar-anand" /></td></p>
 </tr>
 </table>
-</div>
+
