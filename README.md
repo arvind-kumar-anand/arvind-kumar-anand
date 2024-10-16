@@ -24,7 +24,7 @@
 
 </div>
 
-<h3 align="left">🚀 Tech Stack and Tools:</h3>
+<h3 align="left">💻 Tech Stack and Tools:</h3>
 <div align="left">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
@@ -45,7 +45,7 @@
 <img alt="" src=""/>
 </div>
 
-<h3 align="left">🚀 Languages:</h3>
+<h3 align="left">👨🏻‍💻 Languages:</h3>
 <div align="left">
 <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -64,14 +64,11 @@
   <tr>
      <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arvind-kumar-anand&show_icons=true&locale=en&layout=compact" alt="arvind-kumar-anand" /></td>
      <td>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arvind-kumar-anand&show_icons=true&locale=en" alt="arvind-kumar-anand" /></td>
-    
   </tr>
 </table>
 
-
 <table align="center">
   <tr>
-    <p> <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arvind-kumar-anand&" alt="arvind-kumar-anand" /></td></p>
-</tr>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arvind-kumar-anand&" alt="arvind-kumar-anand" /></td>
+  </tr>
 </table>
-
