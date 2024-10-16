@@ -12,18 +12,21 @@
 <a href="https://stackoverflow.com/users/24973361/arvind-kumar-anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24973361/arvind-kumar-anand" height="30" width="40" /></a>
 <a href="https://fb.com/kumar.arvind.anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kumar.arvind.anand" height="30" width="40" /></a>
 <a href="https://instagram.com/arvind.kumar.anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arvind.kumar.anand" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/arvind-kumar-anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arvind-kumar-anand" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">🚀 Tech Stack and Tools:</h2>
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+<h3 align="left">🚀 Tech Stack and Tools:</h3>
+<div align="left">
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+<img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+<img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+</div>
 
-
-
-<h2 align="left">📊 GitHub Activity:</h2>
+<h3 align="left">📊 GitHub Activity:</h3>
 <p id="Most Used Language"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arvind-kumar-anand&show_icons=true&locale=en&layout=compact" alt="arvind-kumar-anand" /></p>
 
 <p id="GitHub Stats">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arvind-kumar-anand&show_icons=true&locale=en" alt="arvind-kumar-anand" /></p>
