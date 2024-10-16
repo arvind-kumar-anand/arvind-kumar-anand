@@ -11,16 +11,9 @@
 <p align="left"> <a href="https://twitter.com/arvind_kr_anand" target="blank"><img src="https://img.shields.io/twitter/follow/arvind_kr_anand?logo=twitter&style=for-the-badge" alt="arvind_kr_anand" /></a> </p>
 -->
 
-- 💬 Ask me about **Core Concepts: DSA, OOPS, DBMS, OS
-Programming: C++, C, JavaScript, Java, Python
-Web Technologies: HTML, CSS, React.js, Node.js, Express, Bootstrap
-Database Management: SQL, MongoDB
-Tools and Software: VS Code, Excel, Power BI
-Version Control: Git, Github**
+- 💬 Ask me about **HTML, CSS, React.js, Node.js, Express, SQL, MongoDB, VS Code, Excel, Power BI, Git, GitHub**
 
 - 📫 How to reach me **arvindanand.0015@gmail.com**
-
-- 📄 Know about my experiences [resumeLink](resumeLink)
 
 - ⚡ Fun fact **I am Funny**
 
