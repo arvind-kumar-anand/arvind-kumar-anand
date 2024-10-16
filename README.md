@@ -4,6 +4,8 @@
 - 💡 Aspiring Software Developer
 - 💼 Passionate about Coding & Problem-Solving
 - 🎯 Preparing for a Future in Software Development
+- “Strive for progress, not perfection.”
+
 
 <h3 align="left">📲 Connect with me:</h3>
 <div align="left">
@@ -71,5 +73,9 @@
 </table>
 
 ### 🌟 Featured Projects:
+
 - **[WeatherWise](https://github.com/arvind-kumar-anand/WeatherWise)**: A weather app built with React.js showing live data.
 - **[TuneStream](https://github.com/arvind-kumar-anand/TuneStream)**: A simple, sleek music player app.
+
+![Profile Views](https://komarev.com/ghpvc/?username=arvind-kumar-anand&label=Profile%20views&color=0e75b6&style=flat)
+![snake gif](https://github.com/arvind-kumar-anand/arvind-kumar-anand/blob/output/github-contribution-grid-snake.gif)
