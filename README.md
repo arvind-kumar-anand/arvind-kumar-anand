@@ -1,5 +1,4 @@
 <h1>👋 Hi, I'm Arvind Kumar Anand </h1>
-<h3 align="center">👨‍💻 Undergraduate at Netaji Subhas University of Technology | Aspiring Software Developer 💡 Passionate about Coding & Problem-Solving. 💼 Preparing for a Future in Software Development.</h3>
 
 * 👨‍💻 Undergraduate at Netaji Subhas University of Technology
 * 💡 Aspiring Software Developer
