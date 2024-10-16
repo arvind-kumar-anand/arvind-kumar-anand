@@ -62,16 +62,8 @@
 
 <table>
   <tr>
-   <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arvind-kumar-anand&show_icons=true&locale=en&layout=compact" alt="arvind-kumar-anand" /></td>
-   <td>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arvind-kumar-anand&show_icons=true&locale=en" alt="arvind-kumar-anand" /></td>
-    
-    
-    
-    </tr>
-
+     <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arvind-kumar-anand&show_icons=true&locale=en&layout=compact" alt="arvind-kumar-anand" /></td>
+     <td>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arvind-kumar-anand&show_icons=true&locale=en" alt="arvind-kumar-anand" /></td>
+     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arvind-kumar-anand&" alt="arvind-kumar-anand" /></td>
+  </tr>
 </table>
-<p id="Most Used Language"></p>
-
-<p id="GitHub Stats"></p>
-
-<p id="Streak Stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arvind-kumar-anand&" alt="arvind-kumar-anand" /></p>
