@@ -6,7 +6,6 @@
 - 🎯 Preparing for a Future in Software Development
 - 🚀 “Strive for progress, not perfection.”
 
-
 <h3 align="left">📲 Connect with me:</h3>
 <div align="left">
  <a href="mailto:jigarsable21@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -71,11 +70,6 @@
     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arvind-kumar-anand&" alt="arvind-kumar-anand" /></td>
   </tr>
 </table>
-
-### 🌟 Featured Projects:
-
-- **[WeatherWise](https://github.com/arvind-kumar-anand/WeatherWise)**: A weather app built with React.js showing live data.
-- **[TuneStream](https://github.com/arvind-kumar-anand/TuneStream)**: A simple, sleek music player app.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arvind-kumar-anand&label=Profile%20views&color=0e75b6&style=flat)
 ![snake gif](https://github.com/arvind-kumar-anand/arvind-kumar-anand/blob/output/github-contribution-grid-snake.gif)
