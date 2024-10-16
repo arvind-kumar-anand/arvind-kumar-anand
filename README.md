@@ -17,6 +17,7 @@
 
 <h2 align="left">🚀 Tech Stack and Tools:</h2>
 
+<h2 align="left">📊 GitHub Activity:</h2>
 <p id="Most Used Language"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arvind-kumar-anand&show_icons=true&locale=en&layout=compact" alt="arvind-kumar-anand" /></p>
 
 <p id="GitHub Stats">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arvind-kumar-anand&show_icons=true&locale=en" alt="arvind-kumar-anand" /></p>
