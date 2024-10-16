@@ -4,7 +4,7 @@
 - 💡 Aspiring Software Developer
 - 💼 Passionate about Coding & Problem-Solving
 - 🎯 Preparing for a Future in Software Development
-- “Strive for progress, not perfection.”
+- 🚀 “Strive for progress, not perfection.”
 
 
 <h3 align="left">📲 Connect with me:</h3>
