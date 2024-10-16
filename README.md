@@ -3,8 +3,6 @@
 
 - 💬 Ask me about **HTML, CSS, React.js, Node.js, Express, SQL, MongoDB, VS Code, Excel, Power BI, Git, GitHub**
 
-- 📫 How to reach me **arvindanand.0015@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arvind_kr_anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arvind_kr_anand" height="30" width="40" /></a>
