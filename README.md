@@ -15,7 +15,7 @@
 <a href="https://www.youtube.com/c/arvind-kumar-anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arvind-kumar-anand" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">Tech Stack and Tools:</h2>
+<h2 align="left">🚀 Tech Stack and Tools:</h2>
 
 <p id="Most Used Language"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arvind-kumar-anand&show_icons=true&locale=en&layout=compact" alt="arvind-kumar-anand" /></p>
 
