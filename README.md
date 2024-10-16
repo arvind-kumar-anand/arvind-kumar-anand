@@ -3,24 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arvind-kumar-anand&label=Profile%20views&color=0e75b6&style=flat" alt="arvind-kumar-anand" /> </p>
 
-<!--  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arvind-kumar-anand" alt="arvind-kumar-anand" /></a> </p>
+<!--
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arvind-kumar-anand" alt="arvind-kumar-anand" /></a> </p>
 -->
 
+<!--
 <p align="left"> <a href="https://twitter.com/arvind_kr_anand" target="blank"><img src="https://img.shields.io/twitter/follow/arvind_kr_anand?logo=twitter&style=for-the-badge" alt="arvind_kr_anand" /></a> </p>
+-->
 
-- 🔭 I’m currently working on [Project Name](Poroject_link)
-
-- 🌱 I’m currently learning **name**
-
-- 👯 I’m looking to collaborate on [Project name](Poroject_link)
-
-- 🤝 I’m looking for help with [Project name](Poroject_link)
-
-- 👨‍💻 All of my projects are available at [https://linktr.ee/arvind.kumar.anand](https://linktr.ee/arvind.kumar.anand)
-
-- 📝 I regularly write articles on [blog_link](blog_link)
-
-- 💬 Ask me about **message**
+- 💬 Ask me about **Core Concepts: DSA, OOPS, DBMS, OS
+Programming: C++, C, JavaScript, Java, Python
+Web Technologies: HTML, CSS, React.js, Node.js, Express, Bootstrap
+Database Management: SQL, MongoDB
+Tools and Software: VS Code, Excel, Power BI
+Version Control: Git, Github**
 
 - 📫 How to reach me **arvindanand.0015@gmail.com**
 
